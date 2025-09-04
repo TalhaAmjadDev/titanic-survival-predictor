@@ -77,7 +77,7 @@ The project has two main components:
    streamlit run app.py
 
 ## 📂 Project Structure
-
+```bash
 titanic-survival-predictor/
 │── train.csv               # Titanic dataset
 │── train_model.py          # Model training, preprocessing, and saving
