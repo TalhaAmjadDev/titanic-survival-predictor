@@ -1,7 +1,6 @@
 # 🌐 Live Demo
 
-You can try the app here: [Titanic Survival Predictor](#)  
-*(Replace `#` with your deployed Streamlit app link if hosted online)*
+You can try the app here: [Titanic Survival Predictor](https://talha-amjad-titanic-survival-predictor.streamlit.app/)  
 
 # 🚢 Titanic Survival Prediction App
 
